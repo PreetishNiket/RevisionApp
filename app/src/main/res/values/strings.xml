@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RevisionApp</string>
+    <string name="id">ID</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="signin">SignIn</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="textView">TextView</string>
+    <string name="welcome_to_my_app">Welcome to my app</string>
+    <string name="thankYou">ThankYou</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="touch_me">Touch Me</string>
+    <string name="go">Go</string>
+    <string name="tag">Tag</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="power_on">power on</string>
+    <string name="switch1">SWITCH</string>
+    <string name="button">Button</string>
+    <string name="textView2">TextView</string>
+    <string name="disable">Disable</string>
+
+</resources>
